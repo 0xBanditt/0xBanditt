@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" />
+<img align="left" src="https://images.app.goo.gl/WS2x66UgNfiEgGwY9" alt="logo.png" width="200" />
 
 ```csharp
 0xSabu@github
