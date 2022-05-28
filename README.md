@@ -25,16 +25,5 @@
 </div>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
+## Songs Playing
+[![Spotify](https://0xsabu.vercel.app/api/spotify)](https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524)
