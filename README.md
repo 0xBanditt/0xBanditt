@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sabu AKA Banditt <img src="https://cdn.discordapp.com/emojis/971738139351736390.png" width="35"></h1>
+<h1 align="center">Hi , I'm Sabu AKA Banditt <img src="https://cdn.discordapp.com/emojis/946553450215387157.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Epik+discord+user+😎;A+fourteen+year+old+dumb+kid;I+am+a+weeb+and+I+like+memes+👀;Always+learning+new+things"></a>
 </p>
