@@ -27,6 +27,6 @@
 
 <br>
 
-## <img src = "https://cdn.discordapp.com/emojis/943921921886679050.gif" width = 50px> Listening on spotify
+## <img src = "https://cdn.discordapp.com/emojis/916114557179686944.png" width = 50px> Listening on spotify
 
 [![Spotify](https://spotify-music-stuff.vercel.app/api/spotify)](https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524)
