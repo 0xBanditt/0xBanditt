@@ -14,7 +14,7 @@
 
 <br>
 
-## <img src = "https://cdn.discordapp.com/emojis/945755302576406568.gif" width = 50px>  Programming languages 
+## <img src = "https://cdn.discordapp.com/emojis/945755302576406568.gif" width = 50px>  Programming & other languages 
 
 <p>
 <div align="center">
