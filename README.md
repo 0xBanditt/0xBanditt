@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Epik+discord+user+😎;A+fourteen+year+old+dumb+kid;I+am+a+weeb+and+I+like+memes+👀;Always+learning+new+things"></a>
 </p>
 
-## <img src = "https://cdn.discordapp.com/emojis/884320607645339688.gif" width = 50px>  About me
+## <img src = "https://cdn.discordapp.com/emojis/692852374145990737.gif" width = 50px>  About me
 
 <br><br>
 
