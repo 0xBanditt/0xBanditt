@@ -25,5 +25,8 @@
 </div>
 </p>
 
-## Songs Playing
-[![Spotify](https://0xsabu.vercel.app/api/spotify)](https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524)
+<br>
+
+## <img src = "https://cdn.discordapp.com/emojis/876813769890742303.gif" width = 50px> Listening on spotify
+
+[![Spotify](https://banditt.vercel.app/api/spotify)](https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524)
