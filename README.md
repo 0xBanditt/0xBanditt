@@ -9,7 +9,6 @@
 
 - :heart: I love `programming`.
 - :snake: Currently learning `Python`.
-- ✅ I avoid `errors` but `errors` like me so I can't avoid.
 - :nerd_face: Always `learning new things`.
 
 <br>
