@@ -6,6 +6,9 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=0xBanditt&icon=3&color=6)](https://visitcount.itsvg.in)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem69-banditt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 ## <img src = "https://cdn.discordapp.com/emojis/916114556852535307.png" width = 50px>  About me
 
