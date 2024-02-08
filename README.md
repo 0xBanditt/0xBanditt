@@ -8,7 +8,7 @@
 ---
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem69-banditt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Banditt)
+  [![Spotify](https://novatorem69-banditt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/317bux4yhnudzmdg5vupfwfag524)
 </div>
 
 ## 🌐 Socials:
