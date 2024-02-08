@@ -11,10 +11,6 @@
   [![Spotify](https://novatorem69-banditt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Banditt)
 </div>
 
-# 💫 About Me:
-🔭 I’m currently working on Studies<br>🤝 I’m looking for help with Programming<br>🌱 I’m currently learning Python and Javascript<br>💬 Ask me about Networking<br>⚡ Fun fact: wannabe hacker
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EW3Yq5eQ2T) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xSabu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xBanditt) 
 
