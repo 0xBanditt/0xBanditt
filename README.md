@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sabu AKA Banditt <img src="https://i.ibb.co/DDzMvBP/1042-pink-laugh.png" width="35"></h1>
+<h1 align="center">Hi , I'm Banditt <img src="https://i.ibb.co/DDzMvBP/1042-pink-laugh.png" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Student%20and%20a%20Programmer;Experienced%20in%20Python;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
